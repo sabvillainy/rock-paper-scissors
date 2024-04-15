@@ -66,7 +66,6 @@ public class Main {
     }
 
     private static void result(int userMove, int computerMove) {
-        //1 taş 2 kağıt 3 makas
         if(userMove==computerMove){
             System.out.println("Draw! Play again!");
             draw++;
