@@ -15,7 +15,7 @@ This is the main class of the game. It initializes the game, displays the menu, 
 This class handles reading from and writing to the save file. It ensures that the scores are saved and loaded correctly.
 
 ## Save File
-The scores are saved in a file named save-file.txt. The file contains the following information:
+The scores are will be saved in a text file named `save-file.txt`. The file contains the following information:
 
 `You: [userScore]`
 
